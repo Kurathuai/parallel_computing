@@ -46,7 +46,3 @@ int main() {
     return 0;
 }
 
-
-
-// gcc -fopenmp matrix_mult.c -o matrix_mult
-./matrix_mult
