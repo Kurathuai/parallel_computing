@@ -58,6 +58,3 @@ int main() {
 
     return 0;
 }
-
-// gcc -fopenmp dijkstra_parallel.c -o dijkstra_parallel
-./dijkstra_parallel
