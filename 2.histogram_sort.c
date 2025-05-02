@@ -72,5 +72,3 @@ int main() {
     return 0;
 }
 
-//gcc -fopenmp histogram_sort.c -o histogram_sort
-./histogram_sort
