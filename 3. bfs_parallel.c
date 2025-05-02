@@ -83,5 +83,4 @@ int main() {
 
     return 0;
 }
-// gcc -fopenmp bfs_parallel.c -o bfs_parallel
-./bfs_parallel
+
